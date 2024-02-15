@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Hi there! 👋<br><br>I'm [Your Name], a [Your Role or Profession] passionate about [Your Interests or Expertise]. Here's a little bit about what I'm up to:<br><br>🔭 I’m currently working on: [Brief description of your current project or projects]<br>👯 I’m looking to collaborate on: [Areas or projects where you're seeking collaboration]<br>🤝 I’m looking for help with: [Specific areas where you need assistance or contributions]<br>🌱 I’m currently learning: [What you're currently learning or improving your skills in]<br>💬 Ask me about: [Topics or areas where you're knowledgeable and open to questions]<br>⚡ Fun fact: [Share an interesting or quirky fact about yourself]<br><br>Thanks for dropping by! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.<br>
+### Hello! 👋 I'm Theodore, a Toronto-based Full-Stack Developer with over 7 years of experience in design and development. My journey began in the world of design and ingenuity, helping out at my mom's small business as a kid. Those early experiences taught me the value of design and technology, sparking a lifelong interest that led me to excel in cross-functional teams, seamlessly bridging the gap between design and development.
+
+In my client work, I've actively engaged in Full-Stack development, contributing to diverse projects that have honed my skills. At Indie Tech, over the past 2 years, I've successfully led a complete UI/UX redesign, resulting in a substantial increase in user testing scores. I've shipped numerous features, including a seamless DocuSign integration, and played a key role in creating libraries of reusable components for the company. These efforts not only enhanced development speed but also reduced technical debt.
+
+This rich experience, coupled with my cross-disciplinary background, positions me as a valuable asset. Let's connect and discuss how my expertise can contribute to your team's success!<br>
 
 
 # 💻 Tech Stack:
