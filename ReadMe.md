@@ -14,12 +14,12 @@ This rich experience, coupled with my cross-disciplinary background, positions m
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSodaPopPanda&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheSodaPopPanda&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=theodore-zd&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TheSodaPopPanda&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=theodore-zd&icon=5&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
